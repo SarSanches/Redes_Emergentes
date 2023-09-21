@@ -96,3 +96,6 @@ Algunos aspectos clave de una red VLAN incluyen:
 4.-Escalabilidad: Las redes VLAN son flexibles y escalables, lo que facilita la expansión o la reconfiguración de la red según las necesidades cambiantes.
 
 5.-Optimización de recursos: Las VLAN permiten utilizar de manera eficiente la infraestructura física compartida al aislar grupos de dispositivos lógicamente.
+
+
+(Para esta tarea se utlizo una IA )
